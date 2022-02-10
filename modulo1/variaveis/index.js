@@ -9,7 +9,10 @@
   let valorDia = prompt("Quanto você recebe por dia?")
   alert(`Voce recebe ${horaTrabalho/valorDia} por hora`) */
   
-  
+ //Exercicíos de escrita de codigo// 
+ 
+ //Exerccío 1//
+
  /*let nome 
  let idade
  console.log(typeof nome , typeof idade)*/
@@ -28,20 +31,34 @@
 // alert(`Olá ${nome} você tem ${idade} anos`)//
 
 
+//Exercício 2//
 
-let respostaPergunta1 = prompt("Você se alimentou hoje?  ")
+/*let respostaPergunta1 = prompt("Você se alimentou hoje?  ")
 let respostaPergunta2 = prompt("Você foi a aula hoje?  ")
 let respostaPergunta3 = prompt("Você viu a minha bolsa?  ")
 
-console.log("Você se alimentou hoje?",respostaPergunta1)
-("Você viu a minha bolsa?", respostaPergunta3)
-console.log
+console.log("Você se alimentou hoje?", respostaPergunta1)
+
+console.log("Você foi a aula hoje?", respostaPergunta2)
+
+console.log("Você viu a minha bolsa?", respostaPergunta3)*/
+
+//Exercício 3//
 
 let a = 10
 let b = 25
+let c = 0    
 
+c = a
 a = b
-b = a
+b = c  
+
+
+console.log("O novo valor de a é", a)
+console.log("O novo valor de b é", b)
+
+
+
 
 
 
