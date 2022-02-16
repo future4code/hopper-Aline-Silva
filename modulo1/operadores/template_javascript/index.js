@@ -35,9 +35,8 @@ console.log (resultado % 2)
 
 // Quando colocamos numeros ímpares o resto da divisão sempre da "1"//
 
-//3//
+//3 ñ soube resolver//
 
-let idade 
 
 
 //4//
