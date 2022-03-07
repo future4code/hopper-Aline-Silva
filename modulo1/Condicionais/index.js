@@ -66,15 +66,16 @@ function verificaTurno(turnoMatutino, turnoVespertino, turnoNoturno){
     }
     else if (turnoNoturno === N){
         console.log("Boa noite")
+    }
 
-    }    
 }
+
 
 verificaTurno(turnoMatutino, turnoVespertino, turnoNoturno)*/
 
 //3.
 
-const Turno = prompt("Digite seu Turno")
+/*const Turno = prompt("Digite seu Turno")
 
 switch (Turno){
 
@@ -94,13 +95,31 @@ switch (Turno){
         console.log("Algo saiu errado, tente novamente")
     break    
     
-}    
+    
+
+} */   
 
 
 //4.
 
-const generoFilme = prompt("digite o genero do filme")
-const valorIngressso = prompt("Coloque o valor do ingresso")
 
+/*const generoFilme = prompt("Digite genero de filme")
+const valorIngressso = Number(prompt("Coloque o valor do ingresso"))
+
+
+
+if (generoFilme === "fantasia") {
+    console.log("Bom filme!")
+}
+
+else if (valorIngressso < 15) {
+    console.log("Bom filme!")
+}
+
+else {
+    console.log("Escolha outro filme")
+}*/
+
+     
 
 
