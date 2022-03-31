@@ -1,0 +1,41 @@
+ * {
+   padding: 0px;
+   margin: 0px;
+} 
+
+h1, h2, h3, h4, h5, h6, p{
+   margin-top: 10px;
+   color: orange;
+   /* text-align: left;
+   text-align: center;
+   text-align: right; */
+   /* text-align: justify; */
+}
+
+.texto-com-background{
+   margin-top: 30px;
+   background-color: yellow;
+}
+
+#texto-com-outra-cor{
+   color:green
+}
+
+
+#btn_click:hover{
+   background-color: aquamarine;
+}
+
+#input_nome:active{
+   background-color: aquamarine;
+}
+
+.footer{
+   margin: auto;
+   width: 150px;
+   background-color: violet;
+}
+
+/* #input_nome:focus{
+   background-color: rgb(233, 229, 197);
+} */
