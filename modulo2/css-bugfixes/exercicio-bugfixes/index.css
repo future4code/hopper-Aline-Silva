@@ -56,11 +56,9 @@ div>p:first-child {
 }
 
 .icone {
-    height: 15px;
+  width: 30;      
 }
-
-
-/** 
+    /**
   *
   *  ESTILOS HOME 
   *
@@ -111,8 +109,13 @@ td button {
     color: black;
 }
 
+.botao-animado :hover{
+    color: white;
+    background-color: #fe7e02 ;
+}
+
 .container-do-search {
-    margin-top: 20px;
+    margin-top: 10px;
     height: 100px;
 }
 
