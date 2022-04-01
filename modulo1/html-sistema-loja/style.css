@@ -1,0 +1,59 @@
+
+.icon{
+    width: 50px;
+}
+
+a{
+    height: 20px;
+}
+/* pagina de produtos */
+.produto{
+  width: 200px;
+    height: 200px;
+}
+
+.cor-letra{
+    color: aliceblue;
+}
+ 
+p{
+    font-size: 25px;
+}
+#texto-tronco{
+   color: rgb(0, 140, 255);
+
+}
+
+
+h1 {
+
+    color:blueviolet;
+}
+body{
+    background-color: darksalmon;
+}
+.segundo-titulo{
+    color: rgb(0, 132, 255);
+}
+h2{
+    color: purple;
+}
+.tamanho-descricao{
+    color: rgb(19, 58, 58);
+    font-size: 20px;
+}
+.cor-titulo{
+    color: blueviolet;
+}
+.cor-titulo2{
+    color: blueviolet;
+}
+.cor-redesocial{
+    color: rgb(55, 20, 255);
+}
+.cor-titulo3{
+    color: blueviolet;
+}
+.tamanho-descricao2{
+    font-size: 20px ;
+}
