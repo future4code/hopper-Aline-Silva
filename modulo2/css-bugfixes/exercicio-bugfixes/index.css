@@ -51,8 +51,9 @@ div>p:first-child {
 }
 
 .container {
-    height: 500px;
+    height: 300px;
     text-align: center;
+
 }
 
 .icone {
@@ -67,10 +68,11 @@ div>p:first-child {
 #container-de-descricao {
     background-color: #2274a5;
     color: white;
+    
 }
 
 #container-de-descricao {
-    padding: 15px 0px;
+    padding: 10px 420px;
 }
 
 #container-para-comprar {
@@ -78,9 +80,10 @@ div>p:first-child {
 }
 
 #container-para-comprar>p {
+    
     color: #c44f00;
     padding: 100px 0;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 
@@ -97,7 +100,9 @@ div:last-child {
 
 table {
     margin: auto;
-    width: 70%;
+    width: 50%;
+    font-size: 30 ;
+    
     
 }
 
@@ -115,8 +120,9 @@ td button {
 }
 
 .container-do-search {
-    margin-top: 10px;
+    margin-top: auto;
     height: 100px;
+    
 }
 
 
@@ -133,3 +139,8 @@ td button {
 #back-button :hover {
     background-color: #635a3d
 }
+
+.local-botao{
+    text-align: center;
+}
+
